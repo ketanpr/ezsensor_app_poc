@@ -1,0 +1,39 @@
+# Android/Gradle
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# App specific
+app/build/
+app/app/build/
+app/.cxx/
+app/app/src/main/assets/EzSensor/
+
+# Python/Tools
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+
+# Test outputs and Raw dumps
+cpp_out_*.raw
+cpp_out_*.png
+*.pcapng
+*.pcap
+
+# Temp Media
+.tempmediaStorage/

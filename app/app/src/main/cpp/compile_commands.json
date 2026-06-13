@@ -1,0 +1,27 @@
+[
+{
+  "directory": "D:/ezdent/app/app/.cxx/Debug/1n5gn25q/arm64-v8a",
+  "command": "C:\\Users\\Ketan\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android26 --sysroot=C:/Users/Ketan/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dezdent_sensor_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles\\ezdent_sensor.dir\\sensor_bridge.cpp.o -c D:\\ezdent\\app\\app\\src\\main\\cpp\\sensor_bridge.cpp",
+  "file": "D:\\ezdent\\app\\app\\src\\main\\cpp\\sensor_bridge.cpp"
+},
+{
+  "directory": "D:/ezdent/app/app/.cxx/Debug/1n5gn25q/arm64-v8a",
+  "command": "C:\\Users\\Ketan\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android26 --sysroot=C:/Users/Ketan/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dezdent_sensor_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles\\ezdent_sensor.dir\\es_descramble.cpp.o -c D:\\ezdent\\app\\app\\src\\main\\cpp\\es_descramble.cpp",
+  "file": "D:\\ezdent\\app\\app\\src\\main\\cpp\\es_descramble.cpp"
+},
+{
+  "directory": "D:/ezdent/app/app/.cxx/Debug/1n5gn25q/arm64-v8a",
+  "command": "C:\\Users\\Ketan\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android26 --sysroot=C:/Users/Ketan/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dezdent_sensor_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles\\ezdent_sensor.dir\\es_calibration.cpp.o -c D:\\ezdent\\app\\app\\src\\main\\cpp\\es_calibration.cpp",
+  "file": "D:\\ezdent\\app\\app\\src\\main\\cpp\\es_calibration.cpp"
+},
+{
+  "directory": "D:/ezdent/app/app/.cxx/Debug/1n5gn25q/arm64-v8a",
+  "command": "C:\\Users\\Ketan\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android26 --sysroot=C:/Users/Ketan/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dezdent_sensor_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles\\ezdent_sensor.dir\\es_process.cpp.o -c D:\\ezdent\\app\\app\\src\\main\\cpp\\es_process.cpp",
+  "file": "D:\\ezdent\\app\\app\\src\\main\\cpp\\es_process.cpp"
+},
+{
+  "directory": "D:/ezdent/app/app/.cxx/Debug/1n5gn25q/arm64-v8a",
+  "command": "C:\\Users\\Ketan\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android26 --sysroot=C:/Users/Ketan/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dezdent_sensor_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles\\ezdent_sensor.dir\\es_utils.cpp.o -c D:\\ezdent\\app\\app\\src\\main\\cpp\\es_utils.cpp",
+  "file": "D:\\ezdent\\app\\app\\src\\main\\cpp\\es_utils.cpp"
+}
+]

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Vatech EzSensor USB device filter
+     Vendor ID: 0x0547 (Vatech Co., Ltd.)
+     Product IDs: 0x2001 - 0x2FFF (EzSensor family) -->
+<resources>
+    <!-- EzSensor Classic/HD range -->
+    <usb-device vendor-id="1351" />
+</resources>
